@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  header {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  section {
+    padding: 20px;
+  }
+
+  nav .nav-link {
+    color: #000000;
+    padding: 10px;
+
+  }
+
+    nav .nav-link:hover {
+        color: #fff;
+        background-color: #000;
+        border-radius: 5px;
+    }
+  
+  .categories {
+    background-color: #eee;
+  }
